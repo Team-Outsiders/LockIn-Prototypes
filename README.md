@@ -1,8 +1,8 @@
 # AuraPlan - AI Personalized Study Planner
 
 > [!NOTE]
-> This is a beta version of the LOCKIN project, developed using Replit AI for testing and evaluation purposes. It is intended to review application functionality, features, and overall system performance<br>
-> project url -> https://study-pal-ai--thadijoshua.replit.app/ <br>
+> This is a beta version of the "LOCK-IN" project, developed using Replit AI for testing and evaluation purposes. It is intended to review application functionality, features, and overall system performance<br>
+> project url - https://study-pal-ai--thadijoshua.replit.app/ <br>
 > if the url is not working then it has been expired :).<br>
 
 
@@ -23,3 +23,20 @@ Students often struggle to maintain consistent study routines due to poor planni
 ## Solution
 The system generates personalized study plans using a priority-based scheduling algorithm. It ensures balanced workload distribution, prevents overload, and dynamically reschedules tasks based on real-time progress and upcoming deadlines.
 
+## Project Overview
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img width="100%" src="https://github.com/Team-Outsiders/AuraPlan/blob/main/assets/dashboard.png" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Team-Outsiders/AuraPlan/blob/main/assets/generate-plan.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Team-Outsiders/AuraPlan/blob/main/assets/initalizing.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Team-Outsiders/AuraPlan/blob/main/assets/content%20page.png" width="100%" />
+    </div>
+  </div>
+</div>
