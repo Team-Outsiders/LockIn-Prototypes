@@ -1,20 +1,25 @@
+<h1>Protoype 2 AI Personalized study planner</h1>
+Protoype 2 built with gemini ai studio for testing and evaluation between replit and gemini for better understanding and feature scaling.
+Storing data in local application rather than authentication for easy access.
+
+<h2>Project Overview</h2>
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img width="100%" src="https://github.com/Team-Outsiders/LockIn-Prototypes/blob/proto2/assets/land.png" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Team-Outsiders/LockIn-Prototypes/blob/proto2/assets/gene.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Team-Outsiders/LockIn-Prototypes/blob/proto2/assets/cre.png" width="100%" />
+    </div>
+    <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Team-Outsiders/LockIn-Prototypes/blob/proto2/assets/da.png" width="100%" />
+    </div>
+     <div style="flex: 1 1 45%; min-width: 300px;">
+      <img src="https://github.com/Team-Outsiders/LockIn-Prototypes/blob/proto2/assets/pla.png" width="100%" />
+    </div>
+  </div>
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/8fb4bcaa-8d4a-436c-ad38-be540cfba1b9
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
