@@ -3,7 +3,7 @@
 > [!NOTE]
 > This is a beta version of the "LOCK-IN" project, developed using Replit AI for testing and evaluation purposes. It is intended to review application functionality, features, and overall system performance<br>
 > Prototype1 project url - https://study-pal-ai--thadijoshua.replit.app/ <br>
-> Prototype2 Branch - 
+> Prototype2 Branch - https://github.com/Team-Outsiders/LockIn-Prototypes/tree/proto2/ <br>
 > if the url is not working then it has been expired :).<br>
 
 
