@@ -1,4 +1,4 @@
-# AuraPlan - AI Personalized Study Planner
+# A Prototypes of AI Personalized Study Planner
 
 > [!NOTE]
 > This is a beta version of the "LOCK-IN" project, developed using Replit AI for testing and evaluation purposes. It is intended to review application functionality, features, and overall system performance<br>
